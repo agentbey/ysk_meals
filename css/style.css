@@ -7,3 +7,4 @@ img{border-style:none;max-width:100%;height:auto;}
 {color:#000000;font-family:'Montserrat', sans-serif;font-size:17px;font-weight:400;background-color:#ffffff;border:1px solid #4A4A4A;border-radius: 0;line-height:40px;height:40px;width:240px;}
 .button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover, .button:focus, button:focus, input[type="submit"]:focus, input[type="reset"]:focus, input[type="button"]:focus{background-color:#000000;color:#ffffff;}
 .hero{background-color:#ffffff;color:#4A4A4A;margin-top: 80px;text-align:center;}
+.centered{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate(-50%,-50%);transform:translate(-50%,-50%);}
