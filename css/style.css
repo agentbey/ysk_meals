@@ -41,8 +41,9 @@ img {
 }
 
 .button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover, .button:focus, button:focus, input[type="submit"]:focus, input[type="reset"]:focus, input[type="button"]:focus {
-  background-color: #000000;
+  background-color: #ff5722;
   color: #ffffff;
+  border: 1px #ff5722 solid;
 }
 
 .hero {
